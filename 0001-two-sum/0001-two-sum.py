@@ -12,3 +12,5 @@ target = 9
 
 obj = Solution()
 print(obj.twoSum(nums, target))
+
+        
