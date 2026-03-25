@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
