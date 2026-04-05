@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
