@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Vishalp9900/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
